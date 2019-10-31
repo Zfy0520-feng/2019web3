@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-size:16px;color:navy;}
+h1{text-align:center;font-fmily:'方正姚体,黑体,宋体';font-size:20px;font-style:oblique;color:#C6C;}
+h2{font-fmily:'黑体';font-size:16px;font-style:normal;color:#099;}
+p{line-height:2em;text-align:left;}
+.nav{background-color:#9F0;margin-left:15%;margin-right:15%;text-align:center;font-size:18px;}
+.copyright{text-align:right;border-bottom:10px;}
+div{width:0;height:0;border:10px solid transparent;border-top-color:#333;}
+#container{width:80%;margin:0 auto;padding:5px 20px;background-color:#FCC;text-align:center;border-width:10px;border-style:solid dotted;min-height:700px;}
+h4{height:30px;line-height:30px;border-bottom:#CCC dotted 1px;}
+ul{list-style-image:url(images/wo.jpg)}
+ul{list-style-type:disc}
